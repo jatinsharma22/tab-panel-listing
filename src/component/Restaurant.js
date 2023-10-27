@@ -33,6 +33,9 @@ function Restaurant() {
       <Container>
         <Nabvar filterItem={filterItem} menuList={menuList}/>
         <MenuBox menuData={menuData} />
+        <div className="d-flex pb-4 justify-content-center github">
+          <a href="https://github.com/jatinsharma22/tab-panel-listing/tree/main" target="_blank"><img src="./images/github.svg" /></a>
+        </div>
       </Container>
     </>
   );

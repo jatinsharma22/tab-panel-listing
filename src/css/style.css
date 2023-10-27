@@ -79,6 +79,7 @@ body {
 .btn-text:hover span:after {
   background-color: #b19d9d;
 }
+.github img {max-width: 40px;}
 
 /* Responsive */
 @media screen and (max-width: 1199px) {
